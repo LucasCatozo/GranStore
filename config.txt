@@ -1,0 +1,4 @@
+git config --global user.name LucasCatozo
+git config --global user.email catozolucas@gmail.com
+
+dotnet new mvc -o GranStore
